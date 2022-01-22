@@ -1,4 +1,4 @@
-#modules needed
+#modules needed for SenOS
 import os
 
 
