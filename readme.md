@@ -1,6 +1,6 @@
 # SenOS operating system (by M1st)
 
-## What is Sen0S?
+## What is SenOS?
 
 **SenOS** is a **Python-programmed operating system**.
 
